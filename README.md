@@ -37,8 +37,8 @@ Das Projekt wurde mit **Python 3** entwickelt und nutzt folgende Bibliotheken:
 - `numpy` - Numerische Berechnungen
 
 ---
-## 📂 Datenquelle
-Die in dieser Analyse verwendeten Daten stammen von [SMARD.de]([https://www.smard.de/home](https://www.smard.de/en/downloadcenter/download-market-data/?downloadAttributes=%7B%22selectedCategory%22:1,%22selectedSubCategory%22:1,%22selectedRegion%22:%22DE%22,%22selectedFileType%22:%22CSV%22,%22from%22:1577833200000,%22to%22:1767221999999%7D)), einer Plattform der Bundesnetzagentur. 
+## Datenquelle
+Die in dieser Analyse verwendeten Daten stammen von **[SMARD.de]([https://www.smard.de/home](https://www.smard.de/en/downloadcenter/download-market-data/?downloadAttributes=%7B%22selectedCategory%22:1,%22selectedSubCategory%22:1,%22selectedRegion%22:%22DE%22,%22selectedFileType%22:%22CSV%22,%22from%22:1577833200000,%22to%22:1767221999999%7D))**, einer Plattform der Bundesnetzagentur. 
 - **Zeitraum:** 2020 – 2025
 - **Auflösung:** Stündliche Werte (später resampled auf tägliche Werte)
 - **Inhalt:** Realisierte Stromerzeugung für alle relevanten Energieträger in Deutschland.
